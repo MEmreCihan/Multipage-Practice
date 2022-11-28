@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Multipage-Practice/static/css/main.b106b61a.css",
+    "main.js": "/Multipage-Practice/static/js/main.e60784de.js",
+    "index.html": "/Multipage-Practice/index.html",
+    "main.b106b61a.css.map": "/Multipage-Practice/static/css/main.b106b61a.css.map",
+    "main.e60784de.js.map": "/Multipage-Practice/static/js/main.e60784de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b106b61a.css",
+    "static/js/main.e60784de.js"
+  ]
+}
